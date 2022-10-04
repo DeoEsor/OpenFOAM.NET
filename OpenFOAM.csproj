@@ -7,7 +7,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="Physics" />
+      <PackageReference Include="DryIoc" Version="5.2.2" />
     </ItemGroup>
 
 </Project>
